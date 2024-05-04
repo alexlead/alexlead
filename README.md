@@ -1,11 +1,6 @@
 # Hi 👋, I'm Aleksandr!
 ### Full-stack developer proficient in Java, JavaScript, and TypeScript, with extensive experience in backend development using Node.js, PHP, and databases including MySQL, PostgreSQL, and MongoDB. Skilled in frontend technologies such as Vue.js and React, with a focus on creating responsive and dynamic user interfaces. Passionate about delivering scalable and efficient solutions that meet the needs of clients and users.
 
-### Connect with me:
-<p align="left">
-<a href="https://codepen.io/alexlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexlead" height="30" width="40" /></a>
-</p>
-
 ### Languages and Tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -48,4 +43,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>  
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> 
+</p>
+
+### Connect with me:
+<p align="left">
+<a href="https://codepen.io/alexlead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexlead" height="30" width="40" /></a>
 </p>
