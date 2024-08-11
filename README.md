@@ -48,7 +48,7 @@
 ### Githab pages
 
 <p align="left"> 
-  <a href="https://www.docker.com/](https://alexlead.github.io/deutscheverben" target="_blank" rel="noreferrer">DIE UNREGELMÄSSIGEN VERBEN</a>  
+  <a href="https://alexlead.github.io/deutscheverben" target="_blank" rel="noreferrer">DIE UNREGELMÄSSIGEN VERBEN</a>  
 </p>
 
 ### Connect with me:
