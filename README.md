@@ -48,6 +48,9 @@
 ### Githab pages
 
 <p align="left"> 
+  <a href="https://alexlead.github.io/lang-cards/" target="_blank" rel="noreferrer">Language Cards App</a>  
+</p>
+<p align="left"> 
   <a href="https://alexlead.github.io/deutscheverben" target="_blank" rel="noreferrer">DIE UNREGELMÄSSIGEN VERBEN</a>  
 </p>
 
