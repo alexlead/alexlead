@@ -1,5 +1,13 @@
 # Hi 👋, I'm Aleksandr!
-### Full-stack developer proficient in Java, JavaScript, and TypeScript, with extensive experience in backend development using Node.js, PHP, and databases including MySQL, PostgreSQL, and MongoDB. Skilled in frontend technologies such as Vue.js and React, with a focus on creating responsive and dynamic user interfaces. Passionate about delivering scalable and efficient solutions that meet the needs of clients and users.
+### I am a Full Stack / Frontend Developer with experience in web development. My career spans building corporate websites, high-load e-commerce solutions, and advanced CRM systems for HR, project management, and vulnerability monitoring.
+### ⚡ What sets me apart is the ability to combine technical expertise with a strong focus on business impact. I am skilled in designing frontend architectures, integrating external services, optimizing performance, and ensuring security (including PCI DSS compliance).
+###💡 What I bring to the team:
+- Strong expertise in Frontend (React, Vue, Typescript, D3.js) combined with solid Backend experience (PHP, Node.js, Java, Python).
+- Hands-on practice in designing scalable CRM, e-commerce, and marketplace platforms with API integrations.
+- Experience in architectural design, API standardization, and DevOps workflows with Docker, Jenkins, Git, and CI/CD.
+- Proficiency in automated testing (Jest, Selenium, Postman, Cucumber) to ensure product stability.
+
+### My mission is to create scalable, reliable, and business-driven web solutions that deliver real value to both companies and end-users.
 
 ### Languages and Tools:
 <p align="left">
