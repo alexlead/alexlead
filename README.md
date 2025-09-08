@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aleksandr!
 ### I am a Full Stack / Frontend Developer with experience in web development. My career spans building corporate websites, high-load e-commerce solutions, and advanced CRM systems for HR, project management, and vulnerability monitoring.
 ### ⚡ What sets me apart is the ability to combine technical expertise with a strong focus on business impact. I am skilled in designing frontend architectures, integrating external services, optimizing performance, and ensuring security (including PCI DSS compliance).
-###💡 What I bring to the team:
+### 💡 What I bring to the team:
 - Strong expertise in Frontend (React, Vue, Typescript, D3.js) combined with solid Backend experience (PHP, Node.js, Java, Python).
 - Hands-on practice in designing scalable CRM, e-commerce, and marketplace platforms with API integrations.
 - Experience in architectural design, API standardization, and DevOps workflows with Docker, Jenkins, Git, and CI/CD.
